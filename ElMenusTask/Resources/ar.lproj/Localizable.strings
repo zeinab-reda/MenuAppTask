@@ -1,0 +1,36 @@
+
+"password_field_empty" = "كلمه المرور فارغه";
+"email_field_empty" = "البريد الالكتروني فارغ";
+"email_field_not_formmated" = "البريد الالكتروني غير صحيح";
+"unauthorised_user" = "اسم المستخدم او كلمه المرور غير صحيحه";
+"no_name" = "لا يوجد اسم";
+"Loading" = "تحميل";
+"check your inbox" = "تم إرسال بريد إلكتروني إليك مع رابط لتغيير كلمة المرور الخاصة بك ، يرجى التحقق من البريد الوارد الخاص بك";
+"email sent successfully"  = "تم إرسال البريد الإلكتروني بنجاح";
+"name_field_empty" = "الاسم فارغ";
+"phone_field_empty" = "رقم الهاتف فارغ";
+"city_field_empty" = "المدينه فازغه";
+"message_send_success" = "تم ارسال الرساله بنجاح";
+"subject_empty" = "عنوان الرساله فارغ";
+"code_copied" = "تم نسخ الكود";
+"place_empty" = "اختر مكان الجلسه";
+"date_empty" = "اختر تاريخ الجلسه";
+"select_subCat" = "اختر مجموعه فرعيه";
+"select_Cat" = "اختر مجموعه رئيسيه";
+"select_duration" = "اختر مده الجلسه";
+"select_trainer" = "اختر مدرب";
+"select_address" = "اختر العنوان";
+
+"enter_street_number" = "ادخل رقم الشارع";
+"enter_building_number" = "ادخل رقم المبني";
+"choose_city" = "اختر مدينه";
+"enter_region" = "ادخل المنطقه";
+"enter_postal_code" = "ادخل الرقم البريدي";
+"Add Gift code" = " كود الهديه";
+"Enter Gift Code" = "ادخل كود الهديه";
+"Ok" = "موافق";
+"Cancel" = "الغاء";
+"min_text" = "دقيقه";
+"session_duration_text" = "تدليك لمده";
+"working_day" = "ايام العمل";
+"choose_working_days" = "اختر ايام العمل";

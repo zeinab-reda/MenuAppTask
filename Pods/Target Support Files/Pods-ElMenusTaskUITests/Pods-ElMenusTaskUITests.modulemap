@@ -1,0 +1,6 @@
+framework module Pods_ElMenusTaskUITests {
+  umbrella header "Pods-ElMenusTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
